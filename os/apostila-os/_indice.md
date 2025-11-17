@@ -203,5 +203,6 @@
 A. Glossário de Siglas e Termos Técnicos
 B. Tabela de interrupções típicas por arquitetura
 C. Estruturas de dados comuns em RTOS
-D. Referências e bibliografia recomendada
+D. Computação Gráfica para o Capítulo 16.3 (For Dummies)
+E. Referências e bibliografia recomendada
 

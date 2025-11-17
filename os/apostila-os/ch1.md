@@ -131,11 +131,6 @@ Os sistemas embarcados estão presentes em praticamente todos os setores da tecn
 > Estima-se que mais de **90% dos processadores fabricados no mundo** são usados em sistemas embarcados, e não em computadores pessoais.
 
 
-Excelente escolha 👏 — o estilo de Tanenbaum é didático, mas ao mesmo tempo **profundamente explicativo e fluido**, com uma construção lógica que conduz o leitor da observação prática até o conceito teórico.
-Abaixo está a **segunda metade do Capítulo 1**, escrita nesse estilo — com transições suaves, exemplos comparativos e analogias ocasionais, mantendo o rigor técnico e clareza conceitual.
-
----
-
 ### **1.5 Estrutura típica de hardware embarcado**
 
 Para compreender um sistema embarcado, é essencial começar de baixo — pelo seu **hardware**.
